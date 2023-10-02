@@ -1,0 +1,41 @@
+/* src/UserList.css */
+.user-list {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 32px;
+    color: #333;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    font-size: 24px;
+    margin: 8px 0;
+    color: #555;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+  }
+  
+  li:hover {
+    background-color: #e0e0e0;
+  }
+
+  .user-list {
+    text-align: center;
+    padding: 20px;
+    background-image: url('background1.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  
